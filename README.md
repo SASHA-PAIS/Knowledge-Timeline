@@ -26,11 +26,11 @@ $ cd Knowledge-Timeline
 ### CSS 
 
 - Custom variables are defined in the root scope.
-- The central line is created using li item.
+- The central line is created using li items.
 - CSS transitions and transform property is applied.
-- nth child pseudo class selector is used to add the boxes on alternate sides of  the central line.
-- Dots are made using the 'after' psuedo selector on the li 
-- Arrows are made by manipulating the border of the boxes (div)
+- nth child pseudo class selector is used to add the boxes on alternate sides of the central line.
+- Dots are made using the 'after' psuedo selector on the li.
+- Arrows are made by manipulating the border of the boxes (div).
 - Media queries are added to make the website responsive.
 
 
